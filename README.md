@@ -13,15 +13,14 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | -----------------------------------------------------------------------------	|
 	
 
-### Installation
-
-In the config.json file, change these to your actual tokens/api keys
-| Follow these steps below |
+| Installation 		|
 | --------------------- |
 
-`npm i to install the required modules`
-`change the tokens/api keys in config.json`
-`node index.js to start bot`
+* ` npm i to install the required modules`
+
+* ` change the tokens/api keys in config.json`
+
+* ` node index.js to start bot`
 ```
 {
   "token": "Your-Bot-Token",
