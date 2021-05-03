@@ -1,4 +1,4 @@
-# A Discord Music Bot written in JavaScript, made by iLikeBouncyBalls#6969
+# A Discord Music Bot written in JavaScript,     made by iLikeBouncyBalls#6969
 
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
