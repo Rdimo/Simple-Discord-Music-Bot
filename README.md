@@ -2,8 +2,11 @@
 
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
-(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+Fork it and give it a star if you liked it :D
+vid tutorial = https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+### License
+This project can be used and modified by anyone who wants to, made this bot for the people who just want their own simple music bot, so just download the zip and follow the tutorial to get started 🠗
 ### Installation
 
 In the config.json file, change these to your actual tokens/api keys
@@ -45,15 +48,16 @@ Default Settings for options.json, change them to your liking
 - LeaveTimeOut : Timeout in seconds before bot leaves channel due to inactivity.(`integer` between `1` and `600`)
 - MaxResponseTime : Maximum time in seconds allowed for user to response back to bot before cancelling command (example: using !play song name) : (`integer` between `5` and `150`)
 - deleteOldPlayMessage : Remove play message after playing or no : (`true`,`false`)
+
 ### Need help?
 | Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef |
 | --------------------- |
 
 ### Commands
 
-| Music Commands              |
+| Music Commands        |
 | --------------------- |
-* `!play`                  | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url                                                     
+* ` !play`                 | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url                                                     
 * ` !create-playlist`      | Create a saved playlist                                                                                                                                                  
 * ` !delete-playlist`      | Delete a playlist from your saved playlists                                                                                                                            
 * ` !display-playlist`     | Display a saved playlist                                                                                                                                               
@@ -74,12 +78,5 @@ Default Settings for options.json, change them to your liking
 * ` !loop`                 | Loop the currently playing song                                                                                                                                                                                                                                              
 * ` !now-playing`          | Display the current playing song with a playback bar                                                                                                                  
 * ` !move`                 | Move song to a desired position in queue                                                                                                                                      
-| Utility              |
-| --------------------- |
-* `help` | Displays a list of available commands, or detailed information for a specified command.
-* `ping` | Checks the bot's ping to the Discord server.
-
-### Support Me
-
-Fork it and give it a star :D
-Join my discord server here Discord.gg/zATCBVGRef
+* ` !help` 		   | Displays a list of available commands, or detailed information for a specified command.
+* ` !ping` 		   | Checks the bot's ping to the Discord server.
