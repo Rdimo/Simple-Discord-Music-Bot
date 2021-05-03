@@ -2,9 +2,7 @@
 
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
-[![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
-[![image](https://img.shields.io/badge/node-%3E%3D%2014.0.0-blue)](https://nodejs.org/)
-
+![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ### Installing the dependencies
 
 `npm i`
@@ -50,30 +48,29 @@ Default Settings for options.json
 
 - Music
 
-| Command               | Description                                                                                                               | Example                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-* `!play`                   Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url          !play darude sandstorm                                            
-* ` !create-playlist`       Create a saved playlist                                                                                                    !create-playlist EDM                                              
-* ` !delete-playlist`       Delete a playlist from your saved playlists                                                                                !delete-playlist EDM                                              
-* ` !display-playlist`      Display a saved playlist                                                                                                   !display-playlist EDM                                             
-* ` !my-playlists`          List your saved playlists                                                                                                  !my-playlists                                                     
-* ` !remove-from-playlist`  Remove a song from a saved playlist using its index                                                                        !remove-from-playlist EDM 5                                       
-* ` !save-to-playlist`      Save a song or a playlist to a saved playlist                                                                              !save-to-playlist EDM https://www.youtube.com/watch?v=dQw4w9WgXcQ 
-* ` !pause`                 Pause the current playing song                                                                                             !pause                                                            
-* ` !resume`                Resume the current paused song                                                                                             !resume                                                           
-* ` !leave`                 Leaves voice channel if in one                                                                                             !leave                                                            
-* ` !remove`                Remove a specific song from queue by its number in queue                                                                   !remove 4                                                         
-* ` !queue`                 Display the song queue                                                                                                     !queue                                                            
-* ` !shuffle`               Shuffle the song queue                                                                                                     !shuffle                                                         
-* ` !skip`                  Skip the current playing song                                                                                              !skip                                                             
-* ` !skipall`               Skip all songs in queue                                                                                                    !skipall                                                          
-* ` !skipto`                Skip to a specific song in the queue, provide the song number as an argument                                               !skipto 5                                                         
-* ` !volume`                Adjust song volume                                                                                                         !volume 80                                                        
-* ` !music-trivia`          Engage in a music trivia with your friends. You can add more songs to the trivia pool in resources/music/musictrivia.json  !music-trivia                                                     
-* ` !loop`                  Loop the currently playing song                                                                                            !loop 5                                                            !loopqueue             Loop the queue                                                                                                            | !loopqueue 2                                                      |
-* ` !lyrics`                Get lyrics of any song or the lyrics of the currently playing song                                                         !lyrics song-name                                                 
-* ` !now-playing`           Display the current playing song with a playback bar                                                                       !now-playing                                                      
-* ` !move`                  Move song to a desired position in queue                                                                                   !move 8 1                                                         
+| Commands              |
+| --------------------- |
+* `!play`                  | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url                                                     
+* ` !create-playlist`      | Create a saved playlist                                                                                                                                                  
+* ` !delete-playlist`      | Delete a playlist from your saved playlists                                                                                                                            
+* ` !display-playlist`     | Display a saved playlist                                                                                                                                               
+* ` !my-playlists`         | List your saved playlists                                                                                                                                                      
+* ` !remove-from-playlist` | Remove a song from a saved playlist using its index                                                                                                              
+* ` !save-to-playlist`     | Save a song or a playlist to a saved playlist
+* ` !pause`                | Pause the current playing song                                                                                                                                                       
+* ` !resume`               | Resume the current paused song                                                                                                                                                      
+* ` !leave`                | Leaves voice channel if in one                                                                                                                                                        
+* ` !remove`               | Remove a specific song from queue by its number in queue                                                                                                                          
+* ` !queue`                | Display the song queue                                                                                                                                                              
+* ` !shuffle`              | Shuffle the song queue                                                                                                                                                              
+* ` !skip`                 | Skip the current playing song                                                                                                                                                       
+* ` !skipall`              | Skip all songs in queue                                                                                                                                                              
+* ` !skipto`               | Skip to a specific song in the queue, provide the song number as an argument                                                                                                      
+* ` !volume`               | Adjust song volume                                                                                                                                                              
+* ` !music-trivia`         | Engage in a music trivia with your friends. You can add more songs to the trivia pool in resources/music/musictrivia.json                                                     
+* ` !loop`                 | Loop the currently playing song                                                                                                                                                                                                                                              
+* ` !now-playing`          | Display the current playing song with a playback bar                                                                                                                  
+* ` !move`                 | Move song to a desired position in queue                                                                                                                                      
 
 
 ### Support Me
