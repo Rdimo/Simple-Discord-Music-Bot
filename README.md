@@ -56,7 +56,7 @@ Default Settings for options.json, change them to your liking
 
 ### Commands
 
-| Music Commands        |
+| Commands      	|
 | --------------------- |
 * ` !play`                 | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url                                                     
 * ` !create-playlist`      | Create a saved playlist                                                                                                                                                  
