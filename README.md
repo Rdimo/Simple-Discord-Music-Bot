@@ -51,9 +51,7 @@ Default Settings for options.json, change them to your liking
 
 ### Commands
 
-- Music
-
-| Commands              |
+| Music Commands              |
 | --------------------- |
 * `!play`                  | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url                                                     
 * ` !create-playlist`      | Create a saved playlist                                                                                                                                                  
@@ -76,7 +74,10 @@ Default Settings for options.json, change them to your liking
 * ` !loop`                 | Loop the currently playing song                                                                                                                                                                                                                                              
 * ` !now-playing`          | Display the current playing song with a playback bar                                                                                                                  
 * ` !move`                 | Move song to a desired position in queue                                                                                                                                      
-
+| Utility              |
+| --------------------- |
+* `help` | Displays a list of available commands, or detailed information for a specified command.
+* `ping` | Checks the bot's ping to the Discord server.
 
 ### Support Me
 
