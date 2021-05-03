@@ -11,7 +11,6 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef	|
 | -----------------------------------------------------------------------------	|
 | Fork it and give it a star if you liked it 😄					|
-| -----------------------------------------------------------------------------	|
 	
 
 | Installation 		|
