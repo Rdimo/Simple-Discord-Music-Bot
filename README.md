@@ -1,4 +1,4 @@
-# A Discord Music Bot written in JavaScript
+# A Discord Music Bot written in JavaScript, made by iLikeBouncyBalls#6969
 
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
@@ -7,7 +7,8 @@
 ### Installation
 
 In the config.json file, change these to your actual tokens/api keys
-|Follow these steps below|
+| Follow these steps below |
+| --------------------- |
 
 `npm i to install the required modules`
 `change the tokens/api keys in config.json`
@@ -45,7 +46,7 @@ Default Settings for options.json, change them to your liking
 - MaxResponseTime : Maximum time in seconds allowed for user to response back to bot before cancelling command (example: using !play song name) : (`integer` between `5` and `150`)
 - deleteOldPlayMessage : Remove play message after playing or no : (`true`,`false`)
 ### Need help?
-| Add iLikeBouncyBalls#6969 on discord for help             |
+| Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef |
 | --------------------- |
 
 ### Commands
@@ -80,4 +81,4 @@ Default Settings for options.json, change them to your liking
 ### Support Me
 
 Fork it and give it a star :D
-Joind discord here to Discord.gg/zATCBVGRef
+Join my discord server here Discord.gg/zATCBVGRef
