@@ -8,8 +8,8 @@ vid tutorial = https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 This project can be used and modified by anyone who wants to, made this bot for the people who just want their own simple music bot, so just download the zip and follow the tutorial to get started 🠗
 
 ### Need help?
-| Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef 	|
-| Fork it and give it a star if you liked it 😄					|
+| Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef
+ Fork it and give it a star if you liked it 😄					|
 | -----------------------------------------------------------------------------	|
 	
 
