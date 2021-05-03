@@ -1,16 +1,17 @@
-# A Discord Music Bot written in JavaScript, the discord.js library and discord.js-commando framework
+# A Discord Music Bot written in JavaScript
 
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
-![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-### Installing the dependencies
+(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-`npm i`
-
-### Setup
+### Installation
 
 In the config.json file, change these to your actual tokens/api keys
+|Follow these steps below|
 
+`npm i to install the required modules`
+`change the tokens/api keys in config.json`
+`node index.js to start bot`
 ```
 {
   "token": "Your-Bot-Token",
@@ -22,7 +23,7 @@ In the config.json file, change these to your actual tokens/api keys
 
 ### Options
 
-Default Settings for options.json
+Default Settings for options.json, change them to your liking
 
 ```
 {
@@ -43,6 +44,9 @@ Default Settings for options.json
 - LeaveTimeOut : Timeout in seconds before bot leaves channel due to inactivity.(`integer` between `1` and `600`)
 - MaxResponseTime : Maximum time in seconds allowed for user to response back to bot before cancelling command (example: using !play song name) : (`integer` between `5` and `150`)
 - deleteOldPlayMessage : Remove play message after playing or no : (`true`,`false`)
+### Need help?
+| Add iLikeBouncyBalls#6969 on discord for help             |
+| --------------------- |
 
 ### Commands
 
