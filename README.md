@@ -15,6 +15,8 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | change the tokens/api keys in config.json 		|
 | `node index.js` in terminal to start the bot 				|
 | `Done!` 				|
+[How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
+
 ```
 {
   "token": "Your-Bot-Token",
@@ -23,10 +25,6 @@ This project can be used and modified by anyone who wants to, made this bot for 
   "youtubeAPI": "youtube-api-key"
 }
 ```
-[How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
-
-[Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
-
 
 ### Need help?
 | Add iLikeBouncyBalls#6969 on discord for help or join [my Discord](https://discord.com/invite/zATCBVGRef)	|
