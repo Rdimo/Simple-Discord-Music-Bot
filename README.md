@@ -21,7 +21,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | change the tokens/api keys in config.json 		|
 | `node index.js` in terminal to start the bot 				|
 | `Done!` 				|
-
+| if you wanna host your discord bot 24/7 [click here](https://www.youtube.com/watch?v=OFearuMjI4s&t=543s) 				|
 ```
 {
   "token": "Your-Bot-Token",
