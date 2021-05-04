@@ -15,6 +15,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | change the tokens/api keys in config.json 		|
 | `node index.js` in terminal to start the bot 				|
 | `Done!` 				|
+
 [How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
 
 ```
