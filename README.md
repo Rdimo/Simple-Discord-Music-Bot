@@ -21,7 +21,6 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | change the tokens/api keys in config.json 		|
 | `node index.js` in terminal to start the bot 				|
 | `Done!` 				|
-| if you wanna host your discord bot 24/7 [click here](https://www.youtube.com/watch?v=OFearuMjI4s&t=543s) 				|
 ```
 {
   "token": "Your-Bot-Token",
@@ -83,3 +82,7 @@ Default Settings for options.json, change them to your liking
 * ` !move`                 | Move song to a desired position in queue                                                                                                                                      
 * ` !help` 		   | Displays a list of available commands, or detailed information for a specified command.
 * ` !ping` 		   | Checks the bot's ping to the Discord server.
+
+### This bot was made by
+-Love ❌
++code ✅
