@@ -32,6 +32,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 [How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
 
 [Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
+
 ======
 ### Options
 
@@ -56,7 +57,7 @@ Default Settings for options.json, change them to your liking
 - LeaveTimeOut : Timeout in seconds before bot leaves channel due to inactivity.(`integer` between `1` and `600`)
 - MaxResponseTime : Maximum time in seconds allowed for user to response back to bot before cancelling command (example: using !play song name) : (`integer` between `5` and `150`)
 - deleteOldPlayMessage : Remove play message after playing or no : (`true`,`false`)
-============
+======
 ### Commands
 
 * ` !play`                 | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url                                                     
