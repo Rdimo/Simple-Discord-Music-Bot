@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
 
-####[Vid tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Vid tutorial here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ### License
 This project can be used and modified by anyone who wants to, made this bot for the people who just want their own simple music bot, so just download the zip and follow the tutorial to get started 🠗
 
