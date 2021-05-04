@@ -20,7 +20,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | open terminal and type `npm i` to install the required modules 		|
 | change the tokens/api keys in config.json 		|
 | `node index.js` in terminal to start the bot 				|
-| ###`Done!` 				|
+| `Done!` 				|
 
 ```
 {
