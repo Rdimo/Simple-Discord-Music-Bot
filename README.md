@@ -13,7 +13,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | [Download](https://github.com/Rdimo/Discord-Music-Bot/archive/refs/heads/main.zip) this project as a zip, then extract it	|
 | Open the folder in [visual studio code](https://code.visualstudio.com/Download#) or other editor of your choice							|
 | open terminal and type `npm i` to install the required modules 		|
-| change the tokens/api keys in config.json 	([How to get a Youtube API key])(https://developers.google.com/youtube/v3/getting-started)	|
+| change the tokens/api keys in config.json [(How to get a Youtube API key)](https://developers.google.com/youtube/v3/getting-started)	|
 | `node index.js` in terminal to start the bot 				|
 | `Done!` 				|
 
