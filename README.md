@@ -6,13 +6,7 @@
 [Vid tutorial here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ### License
 This project can be used and modified by anyone who wants to, made this bot for the people who just want their own simple music bot, so just download the zip and follow the tutorial to get started 🠗
-
-### Need help?
-| Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef	|
-| -----------------------------------------------------------------------------	|
-| Fork it and give it a star if you liked this bot or wanna support this project 😄	|
 	
-
 |    Step by Step Installation 		|
 | ------------------------------------ 	|
 | [Download](https://github.com/Rdimo/Discord-Music-Bot/archive/refs/heads/main.zip) this project as a zip, then extract it	|
@@ -32,6 +26,12 @@ This project can be used and modified by anyone who wants to, made this bot for 
 [How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
 
 [Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
+
+
+### Need help?
+| Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef	|
+| -----------------------------------------------------------------------------	|
+| Fork it and give it a star if you liked this bot or wanna support this project 😄	|
 
 ### Options
 
