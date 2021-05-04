@@ -16,11 +16,11 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | Installation 		|
 | --------------------- |
 |						|
-| npm i to install the required modules 	|
+| `npm i` to install the required modules 	|
 |						|
 | change the tokens/api keys in config.json 	|
 |						|
-| node index.js to start bot 			|
+| `node index.js` to start bot 			|
 
 ```
 {
