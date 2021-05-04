@@ -29,9 +29,9 @@ This project can be used and modified by anyone who wants to, made this bot for 
   "youtubeAPI": "youtube-api-key"
 }
 ```
-####[How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
+[How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
 
-####[Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
+[Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
 
 ### Options
 
