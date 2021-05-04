@@ -84,7 +84,19 @@ Default Settings for options.json, change them to your liking
 * ` !ping` 		   | Checks the bot's ping to the Discord server.
 
 ### This bot was made by
-```diff
-- Love ❌
-+ code ✅
-```
+Love ❌
+code ✅
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
