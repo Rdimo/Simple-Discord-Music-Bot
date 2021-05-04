@@ -16,9 +16,14 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | Installation 		|
 | --------------------- |
 
+### resources 
+[How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
+
+[Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
+
 * ` npm i to install the required modules`
 
-* ` change the tokens/api keys in config.json`
+* ` change the tokens/api keys in config.json` 
 
 * ` node index.js to start bot`
 ```
