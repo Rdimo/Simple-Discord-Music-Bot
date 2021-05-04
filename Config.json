@@ -1,1 +1,6 @@
-
+{
+  "token": "Your-Bot-Token",
+  "prefix": "!",
+  "discord_owner_id": "Your-Discord-ID",
+  "youtubeAPI": "youtube-api-key"
+}
