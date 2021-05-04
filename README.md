@@ -29,7 +29,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 
 
 ### Need help?
-| Add iLikeBouncyBalls#6969 on discord for help or join Discord.gg/zATCBVGRef	|
+| Add iLikeBouncyBalls#6969 on discord for help or join [my Discord](https://discord.com/invite/zATCBVGRef)	|
 | -----------------------------------------------------------------------------	|
 | Fork it and give it a star if you liked this bot or wanna support this project 😄	|
 
