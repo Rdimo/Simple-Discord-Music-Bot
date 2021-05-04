@@ -84,5 +84,7 @@ Default Settings for options.json, change them to your liking
 * ` !ping` 		   | Checks the bot's ping to the Discord server.
 
 ### This bot was made by
+```diff
 - Love ❌
 + code ✅
+```
