@@ -16,11 +16,11 @@ This project can be used and modified by anyone who wants to, made this bot for 
 |    Step by Step Installation 		|
 | ------------------------------------ 	|
 | [Download](https://github.com/Rdimo/Discord-Music-Bot/archive/refs/heads/main.zip) this project as a zip, then extract it	|
-| `npm i` to install the required modules 		|
-|							|
+| Open the folder in [visual studio code](https://code.visualstudio.com/Download#) or other editor of your choice							|
+| open terminal and type `npm i` to install the required modules 		|
 | change the tokens/api keys in config.json 		|
-|							|
-| `node index.js` to start bot 				|
+| `node index.js` in terminal to start the bot 				|
+| ###`Done!` 				|
 
 ```
 {
