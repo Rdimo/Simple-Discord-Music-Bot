@@ -13,14 +13,14 @@ This project can be used and modified by anyone who wants to, made this bot for 
 | Fork it and give it a star if you liked this bot or wanna support this project 😄	|
 	
 
-| Installation 		|
-| --------------------- |
-|						|
-| `npm i` to install the required modules 	|
-|						|
-| change the tokens/api keys in config.json 	|
-|						|
-| `node index.js` to start bot 			|
+|    Step by Step Installation 		|
+| ------------------------------------ 	|
+| [Download](https://github.com/Rdimo/Discord-Music-Bot/archive/refs/heads/main.zip) this project as a zip, then extract it	|
+| `npm i` to install the required modules 		|
+|							|
+| change the tokens/api keys in config.json 		|
+|							|
+| `node index.js` to start bot 				|
 
 ```
 {
