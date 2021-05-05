@@ -4,6 +4,11 @@
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
 
 [Vid tutorial here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### This bot was made by
+Love ❌
+code ✅
+
 ### License
 This project can be used and modified by anyone who wants to, made this bot for the people who just want their own simple music bot, so just download the zip and follow the tutorial to get started 🠗
 	
@@ -81,6 +86,10 @@ Default Settings for options.json, change them to your liking
 * ` !help` 		   | Displays a list of available commands, or detailed information for a specified command.
 * ` !ping` 		   | Checks the bot's ping to the Discord server.
 
-### This bot was made by
-Love ❌
-code ✅
+### Contributing 
+[Fork the repository!]()
+* ` Clone your fork: git clone https://github.com/your-username/Simple-Discord-Music-Bot.git`
+* ` Create your feature branch: git checkout -b my-new-feature`
+* ` Commit your changes: git commit -am 'Add some feature'`
+* ` Push to the branch: git push origin my-new-feature`
+* ` Submit a pull request :D`
