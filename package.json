@@ -1,14 +1,14 @@
 {
-  "name": "master-bot",
+  "name": "Simple-music-bot",
   "version": "1.0.0",
-  "description": "a discord music bot with guild , gifs and misc commands",
+  "description": "a simple discord music bot",
   "main": "index.js",
   "scripts": {
     "start": "node .",
     "pretest": "eslint --ignore-path .gitignore .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nir Gal",
+  "author": "Rdimo",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
