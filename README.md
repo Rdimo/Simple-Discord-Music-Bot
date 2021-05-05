@@ -88,8 +88,8 @@ Default Settings for options.json, change them to your liking
 
 ### Contributing 
 [Fork the repository!](https://github.com/Rdimo/Simple-Discord-Music-Bot/fork)
-* ` Clone your fork: git clone https://github.com/your-username/Simple-Discord-Music-Bot.git`
-* ` Create your feature branch: git checkout -b my-new-feature`
-* ` Commit your changes: git commit -am 'Add some feature'`
-* ` Push to the branch: git push origin my-new-feature`
+* ` Clone your fork:` ```git clone https://github.com/your-username/Simple-Discord-Music-Bot.git```
+* ` Create your feature branch:` ```git checkout -b my-new-feature```
+* ` Commit your changes:` ```git commit -am 'Add some feature'```
+* ` Push to the branch:` ```git push origin my-new-feature```
 * ` Submit a pull request :D`
