@@ -1,4 +1,4 @@
-## A Discord Music Bot written in JavaScript,     made by iLikeBouncyBalls#6969
+## A Discord Music Bot written in JavaScript,     made by Rdimo#6969
 
 ![](https://img.shields.io/github/watchers/Rdimo/Discord-Music-Bot?style=social) 
 ![](https://img.shields.io/github/stars/Rdimo/Discord-Music-Bot?style=social) 
@@ -32,7 +32,7 @@ This project can be used and modified by anyone who wants to, made this bot for 
 ```
 
 ### Need help?
-| Add iLikeBouncyBalls#6969 on discord for help or join [my Discord](https://discord.com/invite/zATCBVGRef)	|
+| Add Rdimo#6969 on discord for help or join [my Discord](https://rdimo.github.io/CheatAway/)	|
 | -----------------------------------------------------------------------------	|
 | Fork it and give it a star if you liked this bot or wanna support this project 😄	|
 
